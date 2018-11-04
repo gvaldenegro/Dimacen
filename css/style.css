@@ -571,7 +571,7 @@ select:focus {
 
 }
 .header-area .outer-box {
-  padding-right: 120px;
+  /*padding-right: 120px;*/
   position: relative;
 }
 .header-area .outer-box .logo {
