@@ -6486,8 +6486,6 @@ padding-left: 20px;
   background:#00b04c;
 }
 
-
-
-
-
-
+.single-blog-item .text-holder {
+  height: 520px;
+}
