@@ -6492,3 +6492,7 @@ padding-left: 20px;
 .latest-blog-area .single-blog-item .text-holder {
   height: 300px;
 }
+
+a i.fa {
+  color: #ffffff;
+}

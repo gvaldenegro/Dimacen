@@ -604,5 +604,5 @@ jQuery(window).on('load', function() {
     })(jQuery);
 });
 
-
+$('#modalPopup').modal('show');
 
